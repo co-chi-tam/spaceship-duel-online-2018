@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Save_GameManager
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: a100fdd1564e1434288866b513686776,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Name
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TurnIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MapColumn
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LimitSmallShip
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LimitBigShip
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CellRoot
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ListChesses.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Battlefield
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SmallSpaceships.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SmallSpaceships.Array.data[0]
+    value: 
+    objectReference: {fileID: 114791077151457070, guid: 5a37206e5b52fbd4cb71b735952d777e,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_SmallSpaceships.Array.data[1]
+    value: 
+    objectReference: {fileID: 114585581013938296, guid: 3a5c830ff9918fd48b1263e0495ea394,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_SmallSpaceships.Array.data[2]
+    value: 
+    objectReference: {fileID: 114169489179627758, guid: f6dd0e553fa38154a917b488554475bc,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_SmallSpaceships.Array.data[3]
+    value: 
+    objectReference: {fileID: 114953913024662562, guid: ff7609f6941fd5e48b25f68c5e448506,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_SmallSpaceships.Array.data[4]
+    value: 
+    objectReference: {fileID: 114813415966241968, guid: f4382de82e7c1254b955da11af7569b6,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_BigSpaceships.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_BigSpaceships.Array.data[0]
+    value: 
+    objectReference: {fileID: 114588385227940204, guid: 297a4a99939af284a9f9b53605b78bd9,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_BigSpaceships.Array.data[1]
+    value: 
+    objectReference: {fileID: 114803970687608782, guid: cc4dd30ceabda944ea5b869695de10f7,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_BigSpaceships.Array.data[2]
+    value: 
+    objectReference: {fileID: 114464735958183670, guid: 401684e6167943545a68cd09ef8b7630,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_BigSpaceships.Array.data[3]
+    value: 
+    objectReference: {fileID: 114993281520834364, guid: 70a6f1700c559814dbf1c3ebbc42bd32,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_BigSpaceships.Array.data[4]
+    value: 
+    objectReference: {fileID: 114396576145739996, guid: 5d82bd4ec48bca24bab204af31b3d3a8,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_PlayerSpaceshipSpots.Array.size
+    value: 0
+    objectReference: {fileID: 0}
