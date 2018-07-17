@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Hello world</title>
+      <title>Spaceship duel online 2018</title>
    </head>
    
    <script src = "/socket.io/socket.io.js"></script>
@@ -46,7 +46,7 @@
             socket.emit('leaveRoom');
       }
       function SendChessPosition(x, y, index) {
-            socket.emit('sendChessPosition', { posX: x, posY: y, turnIndex: index });
+            socket.emit('sendChessSpot', { posX: x, posY: y, turnIndex: index });
       }
       socket.on('newJoinRoom', function(data) {
             genGrid(7, 7);
